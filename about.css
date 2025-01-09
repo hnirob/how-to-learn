@@ -14,3 +14,30 @@ nav li:hover{
 nav a{
    text-decoration: none;
 }
+#nirobb input{
+   display: block;
+   margin-top: 5px;
+   padding: 5px;
+}
+#boss label{
+   display: block;
+   margin-top: 5px;
+   width: 200px;
+
+}
+#boss{
+  margin-top: 10px;
+   width: 200px;
+
+}
+#king{
+   margin-top: 10px;
+   width: 200px;
+
+
+}
+#king label{
+   display: block;
+   margin-top: 5px;
+
+}
