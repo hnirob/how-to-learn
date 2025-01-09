@@ -1,0 +1,16 @@
+nav ul{
+   display: flex;
+}
+nav li{
+   list-style: none;
+   margin-right: 6px;
+   background-color: aqua;
+   padding: 10px;
+   border-radius: 10px;
+}
+nav li:hover{
+   background: hotpink;
+}
+nav a{
+   text-decoration: none;
+}
