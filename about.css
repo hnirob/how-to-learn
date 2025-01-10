@@ -1,5 +1,6 @@
 nav ul{
    display: flex;
+   justify-content: center;
 }
 nav li{
    list-style: none;
@@ -39,5 +40,21 @@ nav a{
 #king label{
    display: block;
    margin-top: 5px;
+
+}
+#parent{
+   padding: 10px;
+   background: hotpink;
+   display: flex;
+   margin-top: 10px;
+   gap: 20px;
+   justify-content: center;
+}
+.child{
+   background: rgb(134, 207, 221);
+   padding: 20px;
+   border: 4px solid rgb(60, 216, 102);
+   border-radius: 10px;
+   
 
 }
